@@ -2,9 +2,9 @@
 # Talon
 
 > [!NOTE]
-> All of our free software is designed to respect your privacy, while being as simple to use as possible. Our free software is licensed under the [BSD-3-Clause license](https://ravendevteam.org/files/BSD-3-Clause.txt). By using our software, you acknowledge and agree to the terms of the license.
+> All Credit to the amazing raven dev team! im just making it slightly better for my needs (ie replacing the raven software with tools i already use,and installing some tweaks and other apps i may need.
 
-Simple utility to debloat Windows in 2 clicks.
+I am not saying talon is bad. This is made for ME,NOT to compete with talon.
 
 > [!CAUTION]
 > Talon is designed to be used on **freshly installed Windows 11 systems**. Trying to use Talon on an already in-use system, or a any older versions of Windows, is not guaranteed to work and can cause some apps to stop working properly and system corruption!
