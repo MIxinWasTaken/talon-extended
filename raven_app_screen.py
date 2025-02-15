@@ -40,7 +40,7 @@ class AnimatedButton(QPushButton):
 class RavenAppScreen(QWidget):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("Optional: Install Raven Software")
+        self.setWindowTitle("Optional: Install Additonal Software")
         self.setWindowFlags(Qt.FramelessWindowHint | Qt.WindowStaysOnTopHint)
         self.showFullScreen()
         self.setStyleSheet("background-color: black;")
